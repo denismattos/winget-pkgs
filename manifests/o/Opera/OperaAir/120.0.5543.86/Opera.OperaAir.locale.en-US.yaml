@@ -9,7 +9,7 @@ PublisherUrl: https://www.opera.com/
 PublisherSupportUrl: https://www.opera.com/help
 PrivacyUrl: https://legal.opera.com/privacy/
 Author: Opera Norway AS
-PackageName: Opera GX Stable
+PackageName: Opera Air
 PackageUrl: https://www.opera.com/air
 License: Freeware
 LicenseUrl: https://legal.opera.com/eula/computers/
@@ -32,3 +32,4 @@ Documentations:
   DocumentUrl: https://help.opera.com/faq/
 ManifestType: defaultLocale
 ManifestVersion: 1.10.0
+
